@@ -119,10 +119,7 @@ font-size:20px;
     align-items: center;
     justify-content: center;
 }
-.image
-{
-border-radius:  50px;
-}
+
 
 /* Skills */
 .skills-grid {
@@ -213,3 +210,4 @@ font-family:sans-sarif;
         padding: 40px 20px;
     }
 }
+
